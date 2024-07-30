@@ -1,5 +1,8 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using MusicStore.Repository.Implementation;
+using MusicStore.Repository.Interface;
+using MusicStore.Service.Implementation;
+using MusicStore.Service.Interface;
 using MusicStore.Web.Data;
 using MusicStore.Web.Models.Identity;
 
@@ -15,6 +18,18 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<MusicStoreUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
+builder.Services.AddScoped(typeof(IPlaylistRepository), typeof(PlaylistRepository));
+
+builder.Services.AddTransient<IAlbumService, AlbumService>();
+builder.Services.AddTransient<IArtistService, ArtistService>();
+builder.Services.AddTransient<IPlaylistService, PlaylistService>();
+builder.Services.AddTransient<ITrackService, TrackService>();
+
+builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
+    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
 var app = builder.Build();
 
@@ -35,6 +50,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

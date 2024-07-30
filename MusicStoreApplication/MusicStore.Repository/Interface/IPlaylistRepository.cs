@@ -9,7 +9,7 @@ namespace MusicStore.Repository.Interface
 {
     public interface IPlaylistRepository
     {
-        IEnumerable<UserPlaylist> GetAllPlaylists();
+        List<UserPlaylist> GetAllPlaylists();
         UserPlaylist GetDetailsForPlaylist(BaseEntity id);
     }
 }

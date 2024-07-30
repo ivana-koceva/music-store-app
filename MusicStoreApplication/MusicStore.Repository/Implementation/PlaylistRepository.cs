@@ -21,7 +21,7 @@ namespace MusicStore.Repository.Implementation
             entities = context.Set<UserPlaylist>();
         }
 
-        public IEnumerable<UserPlaylist> GetAllPlaylists()
+        public List<UserPlaylist> GetAllPlaylists()
         {
             return entities
                 .Include(z=>z.TracksInPlaylist)

@@ -8,14 +8,17 @@
     ".NETCoreApp,Version=v8.0": {
       "MusicStore.Web/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.3",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.7",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
-          "Microsoft.AspNetCore.Identity.UI": "8.0.3",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.7",
+          "Microsoft.Extensions.Identity.Core": "8.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3",
           "MusicStore.Domain": "1.0.0",
-          "MusicStore.Repository": "1.0.0"
+          "MusicStore.Repository": "1.0.0",
+          "MusicStore.Service": "1.0.0"
         },
         "runtime": {
           "MusicStore.Web.dll": {}
@@ -614,14 +617,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.3": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.7": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "8.0.7"
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "assemblyVersion": "8.0.3.0",
-            "fileVersion": "8.0.324.11615"
+            "assemblyVersion": "8.0.7.0",
+            "fileVersion": "8.0.724.31402"
           }
         }
       },
@@ -637,15 +640,40 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Identity.UI/8.0.3": {
+      "Microsoft.AspNetCore.Identity.UI/8.0.7": {
         "dependencies": {
-          "Microsoft.Extensions.FileProviders.Embedded": "8.0.3",
+          "Microsoft.Extensions.FileProviders.Embedded": "8.0.7",
           "Microsoft.Extensions.Identity.Stores": "8.0.7"
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Identity.UI.dll": {
-            "assemblyVersion": "8.0.3.0",
-            "fileVersion": "8.0.324.11615"
+            "assemblyVersion": "8.0.7.0",
+            "fileVersion": "8.0.724.31402"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.JsonPatch/8.0.7": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.JsonPatch.dll": {
+            "assemblyVersion": "8.0.7.0",
+            "fileVersion": "8.0.724.31402"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.7": {
+        "dependencies": {
+          "Microsoft.AspNetCore.JsonPatch": "8.0.7",
+          "Newtonsoft.Json": "13.0.3",
+          "Newtonsoft.Json.Bson": "1.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
+            "assemblyVersion": "8.0.7.0",
+            "fileVersion": "8.0.724.31402"
           }
         }
       },
@@ -1111,7 +1139,7 @@
           }
         }
       },
-      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.SqlClient/5.1.5": {
         "dependencies": {
           "Azure.Identity": "1.10.3",
@@ -1306,14 +1334,14 @@
           "Microsoft.Extensions.Primitives": "8.0.0"
         }
       },
-      "Microsoft.Extensions.FileProviders.Embedded/8.0.3": {
+      "Microsoft.Extensions.FileProviders.Embedded/8.0.7": {
         "dependencies": {
           "Microsoft.Extensions.FileProviders.Abstractions": "8.0.0"
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.324.11615"
+            "fileVersion": "8.0.724.31402"
           }
         }
       },
@@ -1451,7 +1479,7 @@
       },
       "Microsoft.IdentityModel.Tokens/6.35.0": {
         "dependencies": {
-          "Microsoft.CSharp": "4.5.0",
+          "Microsoft.CSharp": "4.7.0",
           "Microsoft.IdentityModel.Logging": "6.35.0",
           "System.Security.Cryptography.Cng": "5.0.0"
         },
@@ -1601,6 +1629,17 @@
           "lib/net6.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
             "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Newtonsoft.Json.Bson/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.2.22727"
           }
         }
       },
@@ -1982,7 +2021,10 @@
       "MusicStore.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "Microsoft.Extensions.Identity.Core": "8.0.7"
         },
         "runtime": {
           "MusicStore.Domain.dll": {}
@@ -1991,11 +2033,28 @@
       "MusicStore.Repository/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "Microsoft.Extensions.Identity.Core": "8.0.7",
           "MusicStore.Domain": "1.0.0"
         },
         "runtime": {
           "MusicStore.Repository.dll": {}
+        }
+      },
+      "MusicStore.Service/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "Microsoft.Extensions.Identity.Core": "8.0.7",
+          "MusicStore.Domain": "1.0.0",
+          "MusicStore.Repository": "1.0.0"
+        },
+        "runtime": {
+          "MusicStore.Service.dll": {}
         }
       }
     }
@@ -2384,12 +2443,12 @@
       "path": "microsoft.aspnetcore.cryptography.keyderivation/8.0.7",
       "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.8.0.7.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.3": {
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6WNY45XlER1ydAt/KwFWVfspniwKu42UO7PGGGFjODlz7iCKuEfAyRcGiEU+/+WTY20DmvOSGC/ItmE2WduJ7g==",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.3",
-      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.3.nupkg.sha512"
+      "sha512": "sha512-LuLXLLAcW5M2B6Q/9Uu8xJ63MWsplq4MaNuWwM1qupJOARZGmRjvQR8Mh9Mir+VxmRK7ANlS9hCFLFDVqZRJTQ==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.7",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.7.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.7": {
       "type": "package",
@@ -2398,12 +2457,26 @@
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.7",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.8.0.7.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Identity.UI/8.0.3": {
+    "Microsoft.AspNetCore.Identity.UI/8.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GTIMfeAKdMkNBL7i41KHz4KAnOiNg9ObpIv3LKs8IcsLioRzHYML7+yvfP5KIbo1RPXtF4ooBgJJKXehIBx/dw==",
-      "path": "microsoft.aspnetcore.identity.ui/8.0.3",
-      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.3.nupkg.sha512"
+      "sha512": "sha512-8wyFN3Vd6TAXWY0UT7BDpV+xjkVWFcMzoNCx544vuBWdVsBklwFgthH+oAw6fNQIrtt84XOM8nHpqibi+H6xYw==",
+      "path": "microsoft.aspnetcore.identity.ui/8.0.7",
+      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.7.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.JsonPatch/8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/cNcH8Qd+3yH4yVUlOsZnxPcsmwnYSnkybKX7PMgrJkaH7ilp2IrcqJN4M376As+y1f+MVUyRqRtosB+PWWQbg==",
+      "path": "microsoft.aspnetcore.jsonpatch/8.0.7",
+      "hashPath": "microsoft.aspnetcore.jsonpatch.8.0.7.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y8v0z0Zrc28wKxY98sGBwjnHqXeSDFh3VQ5ZEsIxGHD/1g9z2zulDJ8ue6Vww1F4gcUkY9XCQUHljNQu3my35A==",
+      "path": "microsoft.aspnetcore.mvc.newtonsoftjson/8.0.7",
+      "hashPath": "microsoft.aspnetcore.mvc.newtonsoftjson.8.0.7.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.24": {
       "type": "package",
@@ -2510,12 +2583,12 @@
       "path": "microsoft.codeanalysis.workspaces.common/4.8.0",
       "hashPath": "microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512"
     },
-    "Microsoft.CSharp/4.5.0": {
+    "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
-      "path": "microsoft.csharp/4.5.0",
-      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Data.SqlClient/5.1.5": {
       "type": "package",
@@ -2643,12 +2716,12 @@
       "path": "microsoft.extensions.fileproviders.abstractions/8.0.0",
       "hashPath": "microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.FileProviders.Embedded/8.0.3": {
+    "Microsoft.Extensions.FileProviders.Embedded/8.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-YipqKixNktNlKij9BGUIBIVj4bXj3lOcvVoe12D3OVVrjFI8atExKU4HLGOJGOi5wCP4APD4cq4mIro38/cJTw==",
-      "path": "microsoft.extensions.fileproviders.embedded/8.0.3",
-      "hashPath": "microsoft.extensions.fileproviders.embedded.8.0.3.nupkg.sha512"
+      "sha512": "sha512-ABsn0T09b5lzVNbOcuRc10+kNZkO+RGtZWfzqVay0Ah+/ouhEvG7JrXc+9+7zFgoPuH4E4N6+uWfTp+pJqMeGw==",
+      "path": "microsoft.extensions.fileproviders.embedded/8.0.7",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.8.0.7.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Core/8.0.7": {
       "type": "package",
@@ -2845,6 +2918,13 @@
       "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Bson/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "path": "newtonsoft.json.bson/1.0.2",
+      "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
     },
     "NuGet.Common/6.9.1": {
       "type": "package",
@@ -3188,6 +3268,11 @@
       "sha512": ""
     },
     "MusicStore.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicStore.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
