@@ -24,3 +24,16 @@ D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\Mu
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\refint\MusicStore.Domain.dll
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.pdb
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\ref\MusicStore.Domain.dll
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\bin\Debug\net8.0\MusicStore.Domain.deps.json
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\bin\Debug\net8.0\MusicStore.Domain.dll
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\bin\Debug\net8.0\MusicStore.Domain.pdb
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.csproj.AssemblyReference.cache
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.AssemblyInfoInputs.cache
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.AssemblyInfo.cs
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.sourcelink.json
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.dll
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\refint\MusicStore.Domain.dll
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.pdb
+C:\Users\anaja\Downloads\musicstoreapp2\MusicStoreApplication\MusicStore.Domain\obj\Debug\net8.0\ref\MusicStore.Domain.dll

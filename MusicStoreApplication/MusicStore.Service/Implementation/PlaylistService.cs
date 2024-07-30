@@ -20,7 +20,7 @@ namespace MusicStore.Service.Implementation
 
         public List<UserPlaylist> GetAllPlaylists()
         {
-            return _playlistRepository.GetAllPlaylists();
+            return _playlistRepository.GetAllPlaylists().ToList();
         }
 
         public UserPlaylist GetDetailsForPlaylist(BaseEntity id)

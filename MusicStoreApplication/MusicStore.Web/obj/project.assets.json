@@ -2942,6 +2942,22 @@
         "runtime": {
           "bin/placeholder/MusicStore.Repository.dll": {}
         }
+      },
+      "MusicStore.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "MusicStore.Domain": "1.0.0",
+          "MusicStore.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicStore.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicStore.Service.dll": {}
+        }
       }
     }
   },
@@ -8319,6 +8335,11 @@
       "type": "project",
       "path": "../MusicStore.Repository/MusicStore.Repository.csproj",
       "msbuildProject": "../MusicStore.Repository/MusicStore.Repository.csproj"
+    },
+    "MusicStore.Service/1.0.0": {
+      "type": "project",
+      "path": "../MusicStore.Service/MusicStore.Service.csproj",
+      "msbuildProject": "../MusicStore.Service/MusicStore.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8330,39 +8351,45 @@
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.3",
       "MusicStore.Domain >= 1.0.0",
-      "MusicStore.Repository >= 1.0.0"
+      "MusicStore.Repository >= 1.0.0",
+      "MusicStore.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\anaja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
+      "projectUniqueName": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
       "projectName": "MusicStore.Web",
-      "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\obj\\",
+      "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
+      "packagesPath": "C:\\Users\\anaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\anaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
-              "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
+            "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
             },
-            "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
-              "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
+            "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
+            },
+            "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj": {
+              "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj"
             }
           }
         }
@@ -8428,7 +8455,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
