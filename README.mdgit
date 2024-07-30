@@ -1,0 +1,1 @@
+"# music-store-app"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:ivana-koceva/music-store-app.gitgit push -u origin main
