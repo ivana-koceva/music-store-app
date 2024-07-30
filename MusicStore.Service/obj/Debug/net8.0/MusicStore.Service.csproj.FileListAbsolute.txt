@@ -1,0 +1,6 @@
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.csproj.AssemblyReference.cache
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.AssemblyInfoInputs.cache
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.AssemblyInfo.cs
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStore.Service\obj\Debug\net8.0\MusicStore.Service.sourcelink.json

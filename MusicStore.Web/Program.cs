@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MusicStore.Web.Data;
 using MusicStore.Web.Models.Identity;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
