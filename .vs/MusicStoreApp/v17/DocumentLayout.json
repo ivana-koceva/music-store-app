@@ -3,132 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\implementation\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\implementation\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\interface\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\interface\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\TrackService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Implementation\\TrackService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\musicstore.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\musicstore.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\implementation\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\implementation\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\implementation\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\implementation\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\implementation\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\implementation\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\musicstore.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\musicstore.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\musicstore.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\musicstore.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.web\\musicstore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\musicstore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\interface\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\interface\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\interface\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\interface\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\interface\\itrackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\interface\\itrackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\implementation\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\implementation\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\interface\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\interface\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\identity\\musicstoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\identity\\musicstoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\userplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\userplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\trackinplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\trackinplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\domain\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\ArtistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Implementation\\ArtistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Data\\Migrations\\20240730113545_three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,12 +27,132 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\Data\\Migrations\\20240730101356_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\AlbumService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Implementation\\AlbumService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstore.repository\\migrations\\20240730115530_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\migrations\\20240730115530_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\PlaylistRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Implementation\\PlaylistRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Interface\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\MusicStore.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\MusicStore.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IAlbumService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Interface\\IAlbumService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Implementation\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\MusicStore.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\MusicStore.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\MusicStore.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\MusicStore.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\MusicStore.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\MusicStore.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IArtistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Interface\\IArtistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IPlaylistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Interface\\IPlaylistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\ITrackService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Interface\\ITrackService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\PlaylistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Implementation\\PlaylistService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Interface\\IPlaylistRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Implementation\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\Track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Migrations\\20240730115530_Four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Migrations\\20240730115530_Four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Identity\\MusicStoreUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Identity\\MusicStoreUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\UserPlaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\UserPlaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\TrackInPlaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\TrackInPlaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Controllers\\TracksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\Controllers\\TracksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Domain\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Repository\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStore.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -187,19 +191,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MusicStoreApplication\\MusicStore.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:35:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ArtistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\ArtistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\ArtistService.cs",
               "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\ArtistService.cs",
               "RelativeToolTip": "MusicStore.Service\\Implementation\\ArtistService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:28:34.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T12:28:34.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AlbumService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\AlbumService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\AlbumService.cs",
@@ -211,19 +226,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "TrackService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\TrackService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\TrackService.cs",
               "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\TrackService.cs",
               "RelativeToolTip": "MusicStore.Service\\Implementation\\TrackService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T12:30:56.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlaylistRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\PlaylistRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\PlaylistRepository.cs",
@@ -235,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IUserRepository.cs",
@@ -247,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MusicStore.Service.csproj",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\MusicStore.Service.csproj",
               "RelativeDocumentMoniker": "MusicStore.Service\\MusicStore.Service.csproj",
@@ -255,12 +269,11 @@
               "RelativeToolTip": "MusicStore.Service\\MusicStore.Service.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-30T11:45:55.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T11:45:55.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "IAlbumService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IAlbumService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IAlbumService.cs",
@@ -268,12 +281,11 @@
               "RelativeToolTip": "MusicStore.Service\\Interface\\IAlbumService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:13:13.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T12:13:13.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IRepository.cs",
@@ -285,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\UserRepository.cs",
@@ -297,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "MusicStore.Repository.csproj",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\MusicStore.Repository.csproj",
               "RelativeDocumentMoniker": "MusicStore.Repository\\MusicStore.Repository.csproj",
@@ -309,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MusicStore.Domain.csproj",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\MusicStore.Domain.csproj",
               "RelativeDocumentMoniker": "MusicStore.Domain\\MusicStore.Domain.csproj",
@@ -321,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "MusicStore.Web.csproj",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\MusicStore.Web.csproj",
               "RelativeDocumentMoniker": "MusicStore.Web\\MusicStore.Web.csproj",
@@ -333,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Program.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Program.cs",
@@ -345,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IArtistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IArtistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IArtistService.cs",
@@ -357,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "IPlaylistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\IPlaylistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IPlaylistService.cs",
@@ -369,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ITrackService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Interface\\ITrackService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\ITrackService.cs",
@@ -381,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "PlaylistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Implementation\\PlaylistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\PlaylistService.cs",
@@ -393,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "IPlaylistRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
@@ -405,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\Repository.cs",
@@ -417,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Album.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Album.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\Album.cs",
@@ -429,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Service\\Class1.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Class1.cs",
@@ -441,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Track.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Track.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\Track.cs",
@@ -453,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\HomeController.cs",
@@ -465,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 27,
               "Title": "20240730115530_Four.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Migrations\\20240730115530_Four.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Migrations\\20240730115530_Four.cs",
@@ -477,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "MusicStoreUser.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Identity\\MusicStoreUser.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Identity\\MusicStoreUser.cs",
@@ -489,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "UserPlaylist.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\UserPlaylist.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\UserPlaylist.cs",
@@ -501,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "TrackInPlaylist.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\TrackInPlaylist.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\TrackInPlaylist.cs",
@@ -513,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\BaseEntity.cs",
@@ -525,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "TracksController.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Controllers\\TracksController.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\TracksController.cs",
@@ -537,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Artist.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Domain\\Artist.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\Artist.cs",
@@ -549,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\ApplicationDbContext.cs",
@@ -561,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Repository\\Class1.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Class1.cs",
@@ -573,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Class1.cs",
@@ -585,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 3,
               "Title": "20240730113545_three.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Data\\Migrations\\20240730113545_three.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Data\\Migrations\\20240730113545_three.cs",
@@ -597,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 4,
               "Title": "20240730112904_two.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Data\\Migrations\\20240730112904_two.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Data\\Migrations\\20240730112904_two.cs",
@@ -609,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 5,
               "Title": "20240730101356_one.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\Data\\Migrations\\20240730101356_one.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Data\\Migrations\\20240730101356_one.cs",
@@ -621,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStore.Web\\appsettings.json",
               "RelativeDocumentMoniker": "MusicStore.Web\\appsettings.json",
