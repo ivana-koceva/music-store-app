@@ -1,0 +1,48 @@
+﻿@model MusicStore.Web.Models.Domain.UserPlaylist
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>UserPlaylist</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Owner)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Owner.Email)
+        </dd>
+        <div>
+            <td>
+                @if (Model.TracksInPlaylist != null && Model.TracksInPlaylist.Any())
+                {
+                    foreach (var song in Model.TracksInPlaylist)
+                    {
+                        <div>
+                            @song.Track.TrackName
+                        </div>
+                    }
+                } else
+                {
+                    <div>No tracks available</div>
+                }
+
+            </td>
+        </div>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,4 +1,5 @@
-﻿using MusicStore.Web.Models.Domain;
+﻿using MusicStore.Domain.DTO;
+using MusicStore.Web.Models.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,12 @@ namespace MusicStore.Service.Interface
 {
     public interface IPlaylistService
     {
-        List<UserPlaylist> GetAllPlaylists();
+        List<UserPlaylist> GetAllPlaylists(string? id);
         UserPlaylist GetDetailsForPlaylist(BaseEntity id);
+        bool AddToPlaylistConfirmed(TrackInPlaylist model, string userId);
+        void CreateNewPlaylist(UserPlaylist p);
+        void UpdateExistingPlaylist(UserPlaylist p);
+
+        void DeletePlaylist(Guid id);
     }
 }
