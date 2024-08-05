@@ -2968,11 +2968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj",
+      "projectUniqueName": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj",
       "projectName": "MusicStore.Service",
-      "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj",
+      "projectPath": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj",
       "packagesPath": "C:\\Users\\anaja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Service\\obj\\",
+      "outputPath": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2989,11 +2989,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
+            "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
             },
-            "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
-              "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
+            "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
             }
           }
         }

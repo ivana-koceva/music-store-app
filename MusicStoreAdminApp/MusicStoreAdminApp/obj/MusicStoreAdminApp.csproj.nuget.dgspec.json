@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj": {}
+    "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj": {
+    "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj",
+        "projectUniqueName": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj",
         "projectName": "MusicStoreAdminApp",
-        "projectPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj",
+        "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\MusicStoreAdminApp.csproj",
         "packagesPath": "C:\\Users\\anaja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreAdminApp\\MusicStoreAdminApp\\obj\\",
+        "outputPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaja\\AppData\\Roaming\\NuGet\\NuGet.Config",

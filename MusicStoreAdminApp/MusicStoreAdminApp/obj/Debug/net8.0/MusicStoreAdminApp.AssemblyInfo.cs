@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicStoreAdminApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ac150c21d5a4b598d593779c93957d14e378f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a84e2edb66191884508c20c569b3819c48de44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicStoreAdminApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicStoreAdminApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

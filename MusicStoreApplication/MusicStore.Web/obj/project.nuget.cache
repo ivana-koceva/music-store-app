@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hUjDXFfigkLCZ3aGqhdxtfUG7za9AaB9w8F15kswTzJQrpVa7DQiffJoVesk6wXk6EItsGr9gCH71ZKMfcwo+A==",
+  "dgSpecHash": "8Qs/frLnPPZ9Ojw/9RKoGO+I1+JxZFwFMYk3Toeo4MsyZV47zhiJDOpxtzyhQaX9Xyutji5Xy3ZTh+1C2u3Rng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anaja\\Downloads\\musicstoreapp2\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
+  "projectFilePath": "C:\\Users\\anaja\\Source\\Repos\\music-store-app\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anaja\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\anaja\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
