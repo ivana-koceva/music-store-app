@@ -45,14 +45,25 @@ namespace MusicStore.Repository.Implementation
                 .Include("TracksInPlaylist.Track")
                 .ToList();
         }
-
-        public UserPlaylist GetDetailsForPlaylist(BaseEntity id)
+        public List<UserPlaylist> GetAllPlaylists()
         {
             return entities
                 .Include(z => z.TracksInPlaylist)
                 .Include(z => z.Owner)
                 .Include("TracksInPlaylist.Track")
+                .ToList();
+        }
+        public UserPlaylist GetDetailsForPlaylist(BaseEntity id)
+        {
+            return entities
+                .Include(z => z.TracksInPlaylist)
+                    .ThenInclude(z=>z.Track)
+                    .ThenInclude(z=>z.Album)
+                    .ThenInclude(z=>z.Artist)
+                .Include(z => z.Owner)
+                .Include("TracksInPlaylist.Track")
                 .SingleOrDefaultAsync(z => z.Id == id.Id).Result;
+
         }
 
         public void Insert(UserPlaylist entity)

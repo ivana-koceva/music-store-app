@@ -11,6 +11,7 @@ namespace MusicStore.Repository.Interface
     public interface IPlaylistRepository
     {
         List<UserPlaylist> GetAllPlaylists(string? id);
+        List<UserPlaylist> GetAllPlaylists();
         UserPlaylist GetDetailsForPlaylist(BaseEntity id);
         void Insert(UserPlaylist entity);
         void Update(UserPlaylist entity);

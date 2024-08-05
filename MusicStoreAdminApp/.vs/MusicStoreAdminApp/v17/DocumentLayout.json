@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\views\\playlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\views\\playlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\views\\playlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\views\\playlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\models\\musicstoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\models\\musicstoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\models\\userplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\models\\userplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\models\\trackinplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\models\\trackinplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|c:\\users\\anaja\\source\\repos\\music-store-app\\musicstoreadminapp\\musicstoreadminapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC35F0-D9D1-41B2-A16C-9067FB96D92C}|MusicStoreAdminApp\\MusicStoreAdminApp.csproj|solutionrelative:musicstoreadminapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +67,140 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 435,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\Artist.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:43:12.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicStoreUser.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\MusicStoreUser.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Models\\MusicStoreUser.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\MusicStoreUser.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Models\\MusicStoreUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:42:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\UserPlaylist.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Models\\UserPlaylist.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\UserPlaylist.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Models\\UserPlaylist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:42:00.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Playlist\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Views\\Playlist\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Playlist\\Details.cshtml",
+              "RelativeToolTip": "MusicStoreAdminApp\\Views\\Playlist\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:39:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Playlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Views\\Playlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Playlist\\Index.cshtml*",
+              "RelativeToolTip": "MusicStoreAdminApp\\Views\\Playlist\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:40:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:35:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Controllers\\PlaylistController.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Controllers\\PlaylistController.cs*",
+              "RelativeToolTip": "MusicStoreAdminApp\\Controllers\\PlaylistController.cs*",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwF4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:27:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MusicStoreAdminApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T13:04:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Track.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\Track.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Models\\Track.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\Track.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Models\\Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:43:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackInPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\TrackInPlaylist.cs",
+              "RelativeDocumentMoniker": "MusicStoreAdminApp\\Models\\TrackInPlaylist.cs",
+              "ToolTip": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreAdminApp\\MusicStoreAdminApp\\Models\\TrackInPlaylist.cs",
+              "RelativeToolTip": "MusicStoreAdminApp\\Models\\TrackInPlaylist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:43:19.309Z",
+              "EditorCaption": ""
             }
           ]
         }
