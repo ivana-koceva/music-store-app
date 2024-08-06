@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+}
+@model List<MusicStoreAdminApp.Models.UserPlaylist>
+
+
+<div class="container">
+    <div class="row">
+        <a asp-controller="Playlist" asp-action="ExportAllPlaylists" class="btn btn-info">Export Playlists</a>
+    </div>
+
+    <div class="row m-5">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        #
+                    </th>
+                    <th>
+                        Playlist Owner
+                    </th>
+                    <th>
+                        Number of songs
+                    </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    var item = Model[i];
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>
+                            @item.Owner.UserName
+                        </td>
+
+                        <td>
+                            @item.TracksInPlaylist.Count()
+                        </td>
+                        <td>
+                            |
+                            <a asp-action="Details" asp-route-id="@item.id" class="btn btn-info">View Playlist</a>
+                        </td>
+                        <td>
+                            |
+                            <a asp-action="CreateInvoice" asp-route-id="@item.id" class="btn btn-info">Create Invoice</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
