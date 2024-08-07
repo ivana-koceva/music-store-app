@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-MusicStore.Web-46c708a2-6dc4-4cd4-ad5f-76f17463e3a6</UserSecretsId>
+	<SelfContained>false</SelfContained>
   </PropertyGroup>
 
   <ItemGroup>
