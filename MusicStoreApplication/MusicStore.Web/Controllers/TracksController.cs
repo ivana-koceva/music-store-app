@@ -191,7 +191,8 @@ namespace MusicStore.Web.Controllers
             {
                 TrackId = track.Id,
                 TrackName = track.TrackName,
-                UserPlaylists = playlists
+                UserPlaylists = playlists,
+                Album = track.Album,
             };
 
             return View(model);

@@ -20,7 +20,7 @@ namespace MusicStoreAdminApp.Controllers
         public IActionResult Index()
         {
             HttpClient client = new HttpClient();
-            string URL = "https://localhost:7245/api/Admin/GetAllPlaylists";
+            string URL = "https://musicstoreweb20240808175547.azurewebsites.net/api/Admin/GetAllPlaylists";
 
             HttpResponseMessage response = client.GetAsync(URL).Result;
             var data = response.Content.ReadAsAsync<List<UserPlaylist>>().Result;
@@ -30,7 +30,7 @@ namespace MusicStoreAdminApp.Controllers
         {
             HttpClient client = new HttpClient();
             //added in next aud
-            string URL = "https://localhost:7245/api/Admin/GetDetails";
+            string URL = "https://musicstoreweb20240808175547.azurewebsites.net/api/Admin/GetDetails";
             var model = new
             {
                 Id = id
@@ -49,7 +49,7 @@ namespace MusicStoreAdminApp.Controllers
         public FileContentResult CreateInvoice(Guid Id)
         {
             HttpClient client = new HttpClient();
-            string URL = "https://localhost:7245/api/Admin/GetDetails";
+            string URL = "https://musicstoreweb20240808175547.azurewebsites.net/api/Admin/GetDetails";
             var model = new
             {
                 Id = Id
@@ -92,7 +92,7 @@ namespace MusicStoreAdminApp.Controllers
                 worksheet.Cell(1, 2).Value = "Creator UserName";
                 worksheet.Cell(1, 3).Value = "Total Songs";
                 HttpClient client = new HttpClient();
-                string URL = "https://localhost:7245/api/Admin/GetAllPlaylists";
+                string URL = "https://musicstoreweb20240808175547.azurewebsites.net/api/Admin/GetAllPlaylists";
 
                 HttpResponseMessage response = client.GetAsync(URL).Result;
                 var data = response.Content.ReadAsAsync<List<UserPlaylist>>().Result;
