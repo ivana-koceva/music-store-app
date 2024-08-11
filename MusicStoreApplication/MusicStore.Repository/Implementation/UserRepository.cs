@@ -37,9 +37,9 @@ namespace MusicStore.Repository.Implementation
             return entities.SingleOrDefault(z => z.Id == id);
         }
 
-        public IEnumerable<MusicStoreUser> GetAll()
+        public List<MusicStoreUser> GetAll()
         {
-            return entities.AsEnumerable();
+            return entities.ToList();
         }
 
         public void Insert(MusicStoreUser entity)

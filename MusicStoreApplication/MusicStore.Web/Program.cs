@@ -27,6 +27,7 @@ builder.Services.AddTransient<IAlbumService, AlbumService>();
 builder.Services.AddTransient<IArtistService, ArtistService>();
 builder.Services.AddTransient<IPlaylistService, PlaylistService>();
 builder.Services.AddTransient<ITrackService, TrackService>();
+builder.Services.AddTransient<IUserService, UserService>();
 
 builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);

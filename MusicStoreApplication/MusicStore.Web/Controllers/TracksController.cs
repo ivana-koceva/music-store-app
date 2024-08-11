@@ -177,6 +177,11 @@ namespace MusicStore.Web.Controllers
                 return NotFound();
             }
 
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Redirect("/Identity/Account/Login");
+            }
+
             var track = trackService.GetDetailsForTrack(id);
 
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
