@@ -191,8 +191,7 @@ namespace MusicStore.Web.Controllers
             {
                 TrackId = track.Id,
                 TrackName = track.TrackName,
-                UserPlaylists = playlists,
-                Album = track.Album,
+                UserPlaylists = playlists
             };
 
             return View(model);
@@ -209,7 +208,11 @@ namespace MusicStore.Web.Controllers
             };
             playlistService.AddToPlaylistConfirmed(trackInPlaylist, userId);
 
-            return View("Index", trackService.GetAllTracks());
+            var tracksWithAlbums = _context.Tracks
+                                    .Include(t => t.Album)
+                                    .ToList();
+
+            return View("Index", tracksWithAlbums);
         }
     }
 }

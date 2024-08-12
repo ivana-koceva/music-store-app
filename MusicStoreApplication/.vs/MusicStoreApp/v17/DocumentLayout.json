@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\tracks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\tracks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\userplaylists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\userplaylists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\tracks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\tracks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\userplaylists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\userplaylists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\userplaylists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\userplaylists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.domain\\dto\\addtoplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\dto\\addtoplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\tracks\\addtoplaylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\tracks\\addtoplaylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.domain\\domain\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\domain\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.repository\\interface\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\interface\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|solutionrelative:musicstore.web\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65D0793A-3F10-4C44-93B9-87A17D6C3FB0}|MusicStore.Web\\MusicStore.Web.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.web\\controllers\\userplaylistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{CCE53593-E8AB-4B5D-B107-A8C27AEF3E6E}|MusicStore.Repository\\MusicStore.Repository.csproj|solutionrelative:musicstore.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.domain\\dto\\addtoplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB26C3E-57FF-4988-A235-BBEF5D42C282}|MusicStore.Domain\\MusicStore.Domain.csproj|solutionrelative:musicstore.domain\\dto\\addtoplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|d:\\projects\\code\\c#\\integrated_systems(2)\\musicstoreapp\\musicstoreapplication\\musicstore.service\\implementation\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F06D31-7404-4965-AA49-96B48A845412}|MusicStore.Service\\MusicStore.Service.csproj|solutionrelative:musicstore.service\\implementation\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -134,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,85 +174,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
-              "RelativeToolTip": "MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T12:42:40.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\Index.cshtml",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Tracks\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\Index.cshtml",
-              "RelativeToolTip": "MusicStore.Web\\Views\\Tracks\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T12:37:40.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Albums\\Index.cshtml",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Albums\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Albums\\Index.cshtml",
-              "RelativeToolTip": "MusicStore.Web\\Views\\Albums\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\UserPlaylists\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Delete.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\UserPlaylists\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T12:30:24.619Z",
+              "WhenOpened": "2024-08-12T15:53:29.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Artists\\Index.cshtml",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Artists\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Artists\\Index.cshtml",
-              "RelativeToolTip": "MusicStore.Web\\Views\\Artists\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T12:17:56.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPlaylistRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
-              "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
-              "RelativeToolTip": "MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:30:04.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Program.cs",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Program.cs",
-              "RelativeToolTip": "MusicStore.Web\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T18:32:15.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\API\\AdminController.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\API\\AdminController.cs",
@@ -248,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PlaylistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Implementation\\PlaylistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\PlaylistService.cs",
@@ -260,7 +211,141 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\TracksController.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\TracksController.cs",
+              "RelativeToolTip": "MusicStore.Web\\Controllers\\TracksController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAgwMoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:45:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Tracks\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\Index.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\Tracks\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T12:37:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPlaylistRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
+              "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
+              "RelativeToolTip": "MusicStore.Repository\\Interface\\IPlaylistRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:30:04.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\UserPlaylists\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T12:42:40.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\UserPlaylists\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\UserPlaylists\\Details.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\UserPlaylists\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:53:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddToPlaylistDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
+              "RelativeDocumentMoniker": "MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
+              "RelativeToolTip": "MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:35:04.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Program.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Program.cs",
+              "RelativeToolTip": "MusicStore.Web\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAEwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:32:15.434Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AddToPlaylist.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\AddToPlaylist.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Tracks\\AddToPlaylist.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Tracks\\AddToPlaylist.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\Tracks\\AddToPlaylist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:25:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\Domain\\Track.cs",
+              "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\Track.cs",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\Domain\\Track.cs",
+              "RelativeToolTip": "MusicStore.Domain\\Domain\\Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:25:28.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T12:17:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Albums\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicStore.Web\\Views\\Albums\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Views\\Albums\\Index.cshtml",
+              "RelativeToolTip": "MusicStore.Web\\Views\\Albums\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T12:30:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserPlaylistsController.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\UserPlaylistsController.cs",
               "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\UserPlaylistsController.cs",
@@ -272,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IPlaylistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Interface\\IPlaylistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IPlaylistService.cs",
@@ -284,20 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TracksController.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\TracksController.cs",
-              "RelativeDocumentMoniker": "MusicStore.Web\\Controllers\\TracksController.cs",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\Controllers\\TracksController.cs",
-              "RelativeToolTip": "MusicStore.Web\\Controllers\\TracksController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwLIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:45:42.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\UserRepository.cs",
@@ -309,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IUserRepository.cs",
@@ -321,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "TrackService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Implementation\\TrackService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\TrackService.cs",
@@ -333,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ITrackService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Interface\\ITrackService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\ITrackService.cs",
@@ -345,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IUserService.cs",
@@ -357,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Implementation\\UserService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\UserService.cs",
@@ -369,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "AlbumService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Implementation\\AlbumService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\AlbumService.cs",
@@ -381,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "IAlbumService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Interface\\IAlbumService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Interface\\IAlbumService.cs",
@@ -393,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "PlaylistRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Implementation\\PlaylistRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\PlaylistRepository.cs",
@@ -405,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Interface\\IRepository.cs",
@@ -417,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\Implementation\\Repository.cs",
@@ -429,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "ArtistService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\Implementation\\ArtistService.cs",
               "RelativeDocumentMoniker": "MusicStore.Service\\Implementation\\ArtistService.cs",
@@ -441,19 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AddToPlaylistDTO.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
-              "RelativeDocumentMoniker": "MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
-              "ToolTip": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
-              "RelativeToolTip": "MusicStore.Domain\\DTO\\AddToPlaylistDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:35:04.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\ApplicationDbContextFactory.cs",
@@ -465,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\appsettings.json",
               "RelativeDocumentMoniker": "MusicStore.Web\\appsettings.json",
@@ -477,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "MusicStoreUser.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\Identity\\MusicStoreUser.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Identity\\MusicStoreUser.cs",
@@ -489,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Artist.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\Domain\\Artist.cs",
               "RelativeDocumentMoniker": "MusicStore.Domain\\Domain\\Artist.cs",
@@ -501,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "MusicStore.Web.csproj",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
               "RelativeDocumentMoniker": "MusicStore.Web\\MusicStore.Web.csproj",
@@ -513,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MusicStore.Repository\\ApplicationDbContext.cs",
@@ -525,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "MusicStore.Web.csproj.user",
               "DocumentMoniker": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj.user",
               "RelativeDocumentMoniker": "MusicStore.Web\\MusicStore.Web.csproj.user",
