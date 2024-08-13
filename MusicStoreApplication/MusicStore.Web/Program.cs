@@ -1,10 +1,12 @@
 using Microsoft.EntityFrameworkCore;
+using MusicStore.Domain;
 using MusicStore.Repository.Implementation;
 using MusicStore.Repository.Interface;
 using MusicStore.Service.Implementation;
 using MusicStore.Service.Interface;
 using MusicStore.Web.Data;
 using MusicStore.Web.Models.Identity;
+using System.Configuration;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,6 +24,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
 builder.Services.AddScoped(typeof(IPlaylistRepository), typeof(PlaylistRepository));
+
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
+
 
 builder.Services.AddTransient<IAlbumService, AlbumService>();
 builder.Services.AddTransient<IArtistService, ArtistService>();

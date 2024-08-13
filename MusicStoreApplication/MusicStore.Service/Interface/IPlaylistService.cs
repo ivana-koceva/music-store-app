@@ -18,5 +18,6 @@ namespace MusicStore.Service.Interface
         void UpdateExistingPlaylist(UserPlaylist p);
 
         void DeletePlaylist(Guid id);
+        void ChangePurchaseStatus(Guid id);
     }
 }
