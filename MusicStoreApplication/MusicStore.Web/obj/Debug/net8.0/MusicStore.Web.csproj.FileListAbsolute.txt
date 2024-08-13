@@ -544,3 +544,4 @@ D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\Mu
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Web\obj\Debug\net8.0\MusicStore.Web.pdb
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Web\obj\Debug\net8.0\MusicStore.Web.genruntimeconfig.cache
 D:\Projects\Code\C#\integrated_systems(2)\MusicStoreApp\MusicStoreApplication\MusicStore.Web\obj\Debug\net8.0\ref\MusicStore.Web.dll
+C:\Users\anaja\source\repos\music-store-app\MusicStoreApplication\MusicStore.Web\bin\Debug\net8.0\Stripe.net.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {}
+    "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+    "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj",
         "projectName": "MusicStore.Domain",
-        "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\obj\\",
+        "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\anaja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\anaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

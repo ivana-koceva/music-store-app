@@ -6,18 +6,22 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using MusicStore.Service.Interface;
 using MusicStore.Web.Data;
 using MusicStore.Web.Models.Domain;
+using Stripe;
 
 namespace MusicStore.Web.Controllers
 {
     public class UserPlaylistsController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly IPlaylistService _playlistService;
 
-        public UserPlaylistsController(ApplicationDbContext context)
+        public UserPlaylistsController(ApplicationDbContext context, IPlaylistService playlistService)
         {
             _context = context;
+            _playlistService = playlistService;
         }
 
         // GET: UserPlaylists
@@ -216,6 +220,39 @@ namespace MusicStore.Web.Controllers
         private bool UserPlaylistExists(Guid id)
         {
             return _context.Playlists.Any(e => e.Id == id);
+        }
+
+        public IActionResult PayOrder(string stripeEmail, string stripeToken, Guid id)
+        {
+            var customerService = new CustomerService();
+            var chargeService = new ChargeService();
+            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            StripeConfiguration.ApiKey = "sk_test_51PT17zBL1KHMOJoM6pNu12YHq2yA7b5RjvBNGXbZXhcy4vDzpnfsbUbvqqUPvimG8fYIQnRCrsu02oBykygKUIgs00UAdKkwQE";
+            var userPlaylist = _context.Playlists
+                .Include(u => u.Owner).Include(u => u.Owner).Include(u => u.TracksInPlaylist)
+                .FirstOrDefault(m => m.Id == id);
+
+            var customer = customerService.Create(new CustomerCreateOptions
+            {
+                Email = stripeEmail,
+                Source = stripeToken
+            });
+
+            var charge = chargeService.Create(new ChargeCreateOptions
+            {
+                Amount = (Convert.ToInt32(userPlaylist.TracksInPlaylist.Count()) * 100),
+                Description = "Music Store Application Payment",
+                Currency = "usd",
+                Customer = customer.Id
+            });
+
+            if (charge.Status == "succeeded")
+            {
+               // _playlistService.ChangePurchaseStatus(userPlaylist.Id);
+                return RedirectToAction("Index", "UserPlaylists");
+            }
+
+            return RedirectToAction("Index", "UserPlaylists");
         }
     }
 }

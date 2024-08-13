@@ -1,4 +1,6 @@
-﻿@model IEnumerable<MusicStore.Web.Models.Domain.UserPlaylist>
+﻿@using Microsoft.Extensions.Options
+@model IEnumerable<MusicStore.Web.Models.Domain.UserPlaylist>
+@inject IOptions<MusicStore.Domain.StripeSettings> Stripe
 
 @{
     ViewData["Title"] = "Index";
@@ -49,7 +51,19 @@
             <td>
                     <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> |
+                    <form asp-controller="UserPlaylists" asp-action="PayOrder" asp-route-id="@item.Id" method="post">
+                        <article>
+                            <script src="https://checkout.stripe.com/checkout.js"
+                                    class="stripe-button"
+                                    data-key="@Stripe.Value.PublishableKey"
+                                    data-locale="auto"
+                                    data-description="Music store Application Payment"
+                                    data-amount="@(item.TracksInPlaylist.Count() * 100)"
+                                    data-label="Pay $@(item.TracksInPlaylist.Count())">
+                            </script>
+                        </article>
+                    </form>
             </td>
         </tr>
 }

@@ -2254,6 +2254,23 @@
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
         }
       },
+      "Stripe.net/45.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.CodeDom/5.0.0": {
         "type": "package",
         "compile": {
@@ -7066,6 +7083,30 @@
         "nuget.versioning.nuspec"
       ]
     },
+    "Stripe.net/45.7.0": {
+      "sha512": "Y7CM6hnEWoS/CskZYYAa7sCeWNUsfcTJixTgBd5x3Nkuq/aqimge9oZukdRQLSnRQHiC8hZRE1rUJ2Zi0+40Pw==",
+      "type": "package",
+      "path": "stripe.net/45.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.45.7.0.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.CodeDom/5.0.0": {
       "sha512": "JPJArwA1kdj8qDAkY2XGjSWoYnqiM7q/3yRNkt6n28Mnn95MuEGkZXUbPBf7qc3IjwrGY5ttQon7yqHZyQJmOQ==",
       "type": "package",
@@ -8477,42 +8518,45 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.3",
       "MusicStore.Domain >= 1.0.0",
       "MusicStore.Repository >= 1.0.0",
-      "MusicStore.Service >= 1.0.0"
+      "MusicStore.Service >= 1.0.0",
+      "Stripe.net >= 45.7.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\anaja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
+      "projectUniqueName": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
       "projectName": "MusicStore.Web",
-      "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Web\\obj\\",
+      "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Web\\MusicStore.Web.csproj",
+      "packagesPath": "C:\\Users\\anaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\anaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
-              "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
+            "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Domain\\MusicStore.Domain.csproj"
             },
-            "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
-              "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
+            "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Repository\\MusicStore.Repository.csproj"
             },
-            "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj": {
-              "projectPath": "D:\\Projects\\Code\\C#\\integrated_systems(2)\\MusicStoreApp\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj"
+            "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj": {
+              "projectPath": "C:\\Users\\anaja\\source\\repos\\music-store-app\\MusicStoreApplication\\MusicStore.Service\\MusicStore.Service.csproj"
             }
           }
         }
@@ -8569,6 +8613,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[45.7.0, )"
           }
         },
         "imports": [
@@ -8590,7 +8638,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
