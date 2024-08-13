@@ -1,7 +1,11 @@
-﻿using MusicStore.Repository.Implementation;
+﻿using Microsoft.Extensions.Options;
+using MusicStore.Domain;
+using MusicStore.Repository.Implementation;
 using MusicStore.Repository.Interface;
 using MusicStore.Service.Interface;
 using MusicStore.Web.Models.Domain;
+using Stripe;
+using Stripe.Checkout;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,11 +18,13 @@ namespace MusicStore.Service.Implementation
     {
         private readonly IPlaylistRepository _playlistRepository;
         private readonly IUserRepository _userRepository;
+        private readonly StripeSettings _stripeSettings;
 
-        public PlaylistService(IPlaylistRepository playlistRepository, IUserRepository userRepository)
+        public PlaylistService(IPlaylistRepository playlistRepository, IUserRepository userRepository, IOptions<StripeSettings> stripeSettings)
         {
             _playlistRepository = playlistRepository;
             _userRepository = userRepository;
+            _stripeSettings = stripeSettings.Value;
         }
 
         public bool AddToPlaylistConfirmed(TrackInPlaylist model, string userId)
@@ -36,6 +42,13 @@ namespace MusicStore.Service.Implementation
             userPlaylist.TracksInPlaylist.Add(model);
             _playlistRepository.Update(userPlaylist);
             return true;
+        }
+
+        public void ChangePurchaseStatus(Guid id)
+        {
+            var playlist = _playlistRepository.Get(id);
+            playlist.isPurchased = true;
+            _playlistRepository.Update(playlist);
         }
 
         public void CreateNewPlaylist(UserPlaylist p)
@@ -66,5 +79,6 @@ namespace MusicStore.Service.Implementation
         {
             _playlistRepository.Update(p);
         }
+
     }
 }

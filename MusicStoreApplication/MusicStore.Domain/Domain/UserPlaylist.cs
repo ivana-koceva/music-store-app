@@ -8,5 +8,6 @@ namespace MusicStore.Web.Models.Domain
         public string OwnerId { get; set; }
         public MusicStoreUser? Owner { get; set; }
         public virtual ICollection<TrackInPlaylist>? TracksInPlaylist { get; set; }
+        public bool isPurchased { get; set; } = false;
     }
 }
