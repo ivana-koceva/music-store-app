@@ -183,7 +183,7 @@ namespace MusicStore.Repository.Migrations
 
                     b.HasIndex("ArtistId");
 
-                    b.ToTable("Albums");
+                    b.ToTable("Albums", (string)null);
                 });
 
             modelBuilder.Entity("MusicStore.Web.Models.Domain.Artist", b =>
@@ -206,7 +206,7 @@ namespace MusicStore.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Artists");
+                    b.ToTable("Artists", (string)null);
                 });
 
             modelBuilder.Entity("MusicStore.Web.Models.Domain.Track", b =>
@@ -229,7 +229,7 @@ namespace MusicStore.Repository.Migrations
 
                     b.HasIndex("AlbumId");
 
-                    b.ToTable("Tracks");
+                    b.ToTable("Tracks", (string)null);
                 });
 
             modelBuilder.Entity("MusicStore.Web.Models.Domain.TrackInPlaylist", b =>
@@ -250,7 +250,7 @@ namespace MusicStore.Repository.Migrations
 
                     b.HasIndex("UserPlaylistId");
 
-                    b.ToTable("TrackInPlaylists");
+                    b.ToTable("TrackInPlaylists", (string)null);
                 });
 
             modelBuilder.Entity("MusicStore.Web.Models.Domain.UserPlaylist", b =>
@@ -270,14 +270,11 @@ namespace MusicStore.Repository.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<bool>("isPurchased")
-                        .HasColumnType("bit");
-
                     b.HasKey("Id");
 
                     b.HasIndex("OwnerId");
 
-                    b.ToTable("Playlists");
+                    b.ToTable("Playlists", (string)null);
                 });
 
             modelBuilder.Entity("MusicStore.Web.Models.Identity.MusicStoreUser", b =>
